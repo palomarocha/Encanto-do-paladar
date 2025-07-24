@@ -12,7 +12,7 @@ Sistema de pedidos feito em **React** para a loja de condimentos **Encanto do Pa
 
 ## 🚀 Veja o projeto no ar
 
-🔗 []()  
+🔗 [Encanto do Paladar](https://encanto-do-paladar.vercel.app)  
 ---
 # 🛒 Encanto do Paladar
 
@@ -28,4 +28,4 @@ Order system built with **React** for the condiment shop **Encanto do Paladar**.
 
 ## 🚀 Live Preview
 
-🔗 []()  
+🔗 [Encanto do Paladar](https://encanto-do-paladar.vercel.app)   
