@@ -290,13 +290,17 @@ body {
 
 @media (max-width: 956px) {
     .titulo{
-        font-size: 1.5rem;
+    font-size: 1.5rem;    
+    padding-left: 2px;      
+    padding-right: 10px;    
+    white-space: normal;  
+    overflow-wrap: break-word;
     }
     .titulo-inicio{
-        margin-top: 20px;
+        margin-top: 15px;
     }
     .titulo-barra{
-        height: 29px;
+        height: 27px;
     }
     .formulario{
         display: flex;
